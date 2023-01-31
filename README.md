@@ -2,7 +2,7 @@
 
 ## Using Docker
 
-Please, use at the root of the repository
+Please, use at the root of the repository asdsadsad
 
 ```bash
 docker-compose up -d
