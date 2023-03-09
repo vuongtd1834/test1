@@ -8,7 +8,7 @@ Please, use at the root of the repository
 docker-compose up -d
 ```
 
-Web app url
+Web app url qwe
 
 [http://localhost:3000](http://localhost:3000)
 
