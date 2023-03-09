@@ -5,7 +5,7 @@
 Please, use at the root of the repository
 
 ```bash
-docker-compose up -d xyz lmao lmao aaaaaafdfsdfsd
+docker-compose up -d xyz lmao lmao aaaaaafdfsdfsd xyz nè
 ```
 
 Web app url qwe lmao mao bruh bruh
