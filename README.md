@@ -8,7 +8,7 @@ Please, use at the root of the repository
 docker-compose up -d
 ```
 
-Web app url qwe
+Web app url qwe lmao mao bruh bruh
 
 [http://localhost:3000](http://localhost:3000)
 
